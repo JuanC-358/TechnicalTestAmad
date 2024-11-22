@@ -1,0 +1,11 @@
+C:\Users\broly\source\repos\test-back\test-back.Application\bin\Debug\net8.0\test-back.Application.deps.json
+C:\Users\broly\source\repos\test-back\test-back.Application\bin\Debug\net8.0\test-back.Application.dll
+C:\Users\broly\source\repos\test-back\test-back.Application\bin\Debug\net8.0\test-back.Application.pdb
+C:\Users\broly\source\repos\test-back\test-back.Application\obj\Debug\net8.0\test-back.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\broly\source\repos\test-back\test-back.Application\obj\Debug\net8.0\test-back.Application.AssemblyInfoInputs.cache
+C:\Users\broly\source\repos\test-back\test-back.Application\obj\Debug\net8.0\test-back.Application.AssemblyInfo.cs
+C:\Users\broly\source\repos\test-back\test-back.Application\obj\Debug\net8.0\test-back.Application.csproj.CoreCompileInputs.cache
+C:\Users\broly\source\repos\test-back\test-back.Application\obj\Debug\net8.0\test-back.Application.dll
+C:\Users\broly\source\repos\test-back\test-back.Application\obj\Debug\net8.0\refint\test-back.Application.dll
+C:\Users\broly\source\repos\test-back\test-back.Application\obj\Debug\net8.0\test-back.Application.pdb
+C:\Users\broly\source\repos\test-back\test-back.Application\obj\Debug\net8.0\ref\test-back.Application.dll

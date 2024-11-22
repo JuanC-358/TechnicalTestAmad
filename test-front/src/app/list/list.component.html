@@ -1,0 +1,27 @@
+<button mat-button (click)="newRecord()">+</button>
+<div *ngIf="flights && flights.length; else noRecords">
+    <div *ngFor="let record of flights; let i = index">
+      <mat-card>
+        <mat-card-content>
+          <p><strong>Name:</strong> {{ record.flightNumber }}</p>
+          <p><strong>Email:</strong> {{ record.flightStatus }}</p>
+          <p><strong>Phone:</strong> {{ record.origin }}</p>
+          <p><strong>Gender:</strong> {{ record.destination }}</p>
+          <p><strong>Address:</strong> {{ record.availableSeats }}</p>
+          <p><strong>Country:</strong> {{ record.ticketPrice }}</p>
+          <p><strong>Comments:</strong> {{ record.correoSoporte }}</p>
+        </mat-card-content>
+        <mat-card-actions>
+          <button mat-button (click)="editRecord(record.id)">Edit</button>
+          <button mat-button (click)="deleteRecord(record.id)">Delete</button>
+        </mat-card-actions>
+      </mat-card>
+    </div>
+  </div>
+  
+  <ng-template #noRecords>
+    <div class="no-records-message">
+      <p>No flights available at the moment.</p>
+    </div>
+  </ng-template>
+  

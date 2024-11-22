@@ -1,0 +1,16 @@
+.spacer {
+    flex: 1 1 auto;
+}
+.mat-toolbar {
+    display: block;
+    background-color: #252525;
+    color: #333;
+    opacity: 90%;
+    justify-content: space-between;
+}
+.img{
+    height: 50% !important;
+    margin-top: 10%;
+}
+
+ 

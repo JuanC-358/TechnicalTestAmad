@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qlJ9lCz4EzJWcI7AaXMm7R//5yMbstW7dIzFL9YdNqQ=",
+  "Source": "test-back",
+  "BasePath": "_content/test-back",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,64 @@
+<h2>Update Flight</h2>
+<form [formGroup]="flightForm" (ngSubmit)="onSubmit()">
+  <mat-form-field appearance="fill">
+    <mat-label>Flight Number</mat-label>
+    <input matInput formControlName="flightNumber" required />
+    <mat-error *ngIf="flightForm.get('flightNumber')?.hasError('required')">
+      Flight Number is required.
+    </mat-error>
+  </mat-form-field>
+
+  <mat-form-field appearance="fill">
+    <mat-label>Origin</mat-label>
+    <mat-select formControlName="origin" required>
+      <mat-option value="New York">New York</mat-option>
+      <mat-option value="Los Angeles">Los Angeles</mat-option>
+      <mat-option value="London">London</mat-option>
+      <mat-option value="Tokyo">Tokyo</mat-option>
+      <mat-option value="Paris">Paris</mat-option>
+    </mat-select>
+    <mat-error *ngIf="flightForm.get('origin')?.hasError('required')">
+      Origin is required.
+    </mat-error>
+  </mat-form-field>
+
+  <mat-form-field appearance="fill">
+    <mat-label>Destination</mat-label>
+    <mat-select formControlName="destination" required>
+      <mat-option value="New York">New York</mat-option>
+      <mat-option value="Los Angeles">Los Angeles</mat-option>
+      <mat-option value="London">London</mat-option>
+      <mat-option value="Tokyo">Tokyo</mat-option>
+      <mat-option value="Paris">Paris</mat-option>
+    </mat-select>
+    <mat-error *ngIf="flightForm.get('destination')?.hasError('required')">
+      Destination is required.
+    </mat-error>
+  </mat-form-field>
+
+  <mat-form-field appearance="fill">
+    <mat-label>Departure Date</mat-label>
+    <input matInput [matDatepicker]="departurePicker" formControlName="departureDate" required />
+    <mat-datepicker-toggle matSuffix [for]="departurePicker"></mat-datepicker-toggle>
+    <mat-datepicker #departurePicker></mat-datepicker>
+    <mat-error *ngIf="flightForm.get('departureDate')?.hasError('required')">
+      Departure Date is required.
+    </mat-error>
+  </mat-form-field>
+
+  <mat-form-field appearance="fill">
+    <mat-label>Arrival Date</mat-label>
+    <input matInput [matDatepicker]="arrivalPicker" formControlName="arrivalDate" required />
+    <mat-datepicker-toggle matSuffix [for]="arrivalPicker"></mat-datepicker-toggle>
+    <mat-datepicker #arrivalPicker></mat-datepicker>
+    <mat-error *ngIf="flightForm.get('arrivalDate')?.hasError('required')">
+      Arrival Date is required.
+    </mat-error>
+  </mat-form-field>
+
+  <!-- Otros campos similares, como duración, asientos disponibles, precio del boleto, estado del vuelo -->
+
+  <button mat-raised-button color="primary" type="submit" [disabled]="flightForm.invalid">
+    Update Flight
+  </button>
+</form>

@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\broly\\source\\repos\\test-back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBBBEF-7CB4-4FF1-90A4-8C499859417D}|test-back\\test-back.csproj|c:\\users\\broly\\source\\repos\\test-back\\test-back\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBBBEF-7CB4-4FF1-90A4-8C499859417D}|test-back\\test-back.csproj|solutionrelative:test-back\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D0A1A9-DB3E-49D0-947C-F30BD77384B9}|test-back.Infrastructure\\test-back.Infrastructure.csproj|c:\\users\\broly\\source\\repos\\test-back\\test-back.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D0A1A9-DB3E-49D0-947C-F30BD77384B9}|test-back.Infrastructure\\test-back.Infrastructure.csproj|solutionrelative:test-back.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D0A1A9-DB3E-49D0-947C-F30BD77384B9}|test-back.Infrastructure\\test-back.Infrastructure.csproj|c:\\users\\broly\\source\\repos\\test-back\\test-back.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D0A1A9-DB3E-49D0-947C-F30BD77384B9}|test-back.Infrastructure\\test-back.Infrastructure.csproj|solutionrelative:test-back.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBBBEF-7CB4-4FF1-90A4-8C499859417D}|test-back\\test-back.csproj|c:\\users\\broly\\source\\repos\\test-back\\test-back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBBBEF-7CB4-4FF1-90A4-8C499859417D}|test-back\\test-back.csproj|solutionrelative:test-back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBBBEF-7CB4-4FF1-90A4-8C499859417D}|test-back\\test-back.csproj|c:\\users\\broly\\source\\repos\\test-back\\test-back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5BBBBEF-7CB4-4FF1-90A4-8C499859417D}|test-back\\test-back.csproj|solutionrelative:test-back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE1D84B-6EA5-454B-B84D-976CA64E8A37}|test-back.Application\\test-back.Application.csproj|c:\\users\\broly\\source\\repos\\test-back\\test-back.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE1D84B-6EA5-454B-B84D-976CA64E8A37}|test-back.Application\\test-back.Application.csproj|solutionrelative:test-back.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D0A1A9-DB3E-49D0-947C-F30BD77384B9}|test-back.Infrastructure\\test-back.Infrastructure.csproj|c:\\users\\broly\\source\\repos\\test-back\\test-back.infrastructure\\test-back.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8D0A1A9-DB3E-49D0-947C-F30BD77384B9}|test-back.Infrastructure\\test-back.Infrastructure.csproj|solutionrelative:test-back.infrastructure\\test-back.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F984BFE-E394-4755-BEE7-474A79A6DD84}|test-back.Domain\\test-back.Domain.csproj|c:\\users\\broly\\source\\repos\\test-back\\test-back.domain\\config\\configvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F984BFE-E394-4755-BEE7-474A79A6DD84}|test-back.Domain\\test-back.Domain.csproj|solutionrelative:test-back.domain\\config\\configvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F984BFE-E394-4755-BEE7-474A79A6DD84}|test-back.Domain\\test-back.Domain.csproj|c:\\users\\broly\\source\\repos\\test-back\\test-back.domain\\test-back.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F984BFE-E394-4755-BEE7-474A79A6DD84}|test-back.Domain\\test-back.Domain.csproj|solutionrelative:test-back.domain\\test-back.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2c59525e-9c14-4bfd-bc18-3a5ae7eb7dbd}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{31879382-50e1-3e5b-88b6-69f415918fa5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\broly\\source\\repos\\test-back\\test-back.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "test-back.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\broly\\source\\repos\\test-back\\test-back.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "test-back.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:02:35.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "test-back.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\broly\\source\\repos\\test-back\\test-back.Infrastructure\\test-back.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "test-back.Infrastructure\\test-back.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\broly\\source\\repos\\test-back\\test-back.Infrastructure\\test-back.Infrastructure.csproj",
+              "RelativeToolTip": "test-back.Infrastructure\\test-back.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T06:49:17.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\broly\\source\\repos\\test-back\\test-back.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "test-back.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\broly\\source\\repos\\test-back\\test-back.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "test-back.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:49:48.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "configValues.cs",
+              "DocumentMoniker": "C:\\Users\\broly\\source\\repos\\test-back\\test-back.Domain\\Config\\configValues.cs",
+              "RelativeDocumentMoniker": "test-back.Domain\\Config\\configValues.cs",
+              "ToolTip": "C:\\Users\\broly\\source\\repos\\test-back\\test-back.Domain\\Config\\configValues.cs",
+              "RelativeToolTip": "test-back.Domain\\Config\\configValues.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:40:07.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\broly\\source\\repos\\test-back\\test-back\\appsettings.json",
+              "RelativeDocumentMoniker": "test-back\\appsettings.json",
+              "ToolTip": "C:\\Users\\broly\\source\\repos\\test-back\\test-back\\appsettings.json",
+              "RelativeToolTip": "test-back\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T06:37:40.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlightController.cs",
+              "DocumentMoniker": "C:\\Users\\broly\\source\\repos\\test-back\\test-back\\Controllers\\FlightController.cs",
+              "RelativeDocumentMoniker": "test-back\\Controllers\\FlightController.cs",
+              "ToolTip": "C:\\Users\\broly\\source\\repos\\test-back\\test-back\\Controllers\\FlightController.cs",
+              "RelativeToolTip": "test-back\\Controllers\\FlightController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:34:25.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "test-back.Domain",
+              "DocumentMoniker": "C:\\Users\\broly\\source\\repos\\test-back\\test-back.Domain\\test-back.Domain.csproj",
+              "RelativeDocumentMoniker": "test-back.Domain\\test-back.Domain.csproj",
+              "ToolTip": "C:\\Users\\broly\\source\\repos\\test-back\\test-back.Domain\\test-back.Domain.csproj",
+              "RelativeToolTip": "test-back.Domain\\test-back.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T06:31:58.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\broly\\source\\repos\\test-back\\test-back.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "test-back.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\broly\\source\\repos\\test-back\\test-back.Application\\Class1.cs",
+              "RelativeToolTip": "test-back.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:22:44.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\broly\\source\\repos\\test-back\\test-back\\Program.cs",
+              "RelativeDocumentMoniker": "test-back\\Program.cs",
+              "ToolTip": "C:\\Users\\broly\\source\\repos\\test-back\\test-back\\Program.cs",
+              "RelativeToolTip": "test-back\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:53:54.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

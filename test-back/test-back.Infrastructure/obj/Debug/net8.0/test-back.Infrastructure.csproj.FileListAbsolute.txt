@@ -1,0 +1,15 @@
+C:\Users\broly\source\repos\test-back\test-back.Infrastructure\bin\Debug\net8.0\test-back.Infrastructure.deps.json
+C:\Users\broly\source\repos\test-back\test-back.Infrastructure\bin\Debug\net8.0\test-back.Infrastructure.dll
+C:\Users\broly\source\repos\test-back\test-back.Infrastructure\bin\Debug\net8.0\test-back.Infrastructure.pdb
+C:\Users\broly\source\repos\test-back\test-back.Infrastructure\bin\Debug\net8.0\test-back.Domain.dll
+C:\Users\broly\source\repos\test-back\test-back.Infrastructure\bin\Debug\net8.0\test-back.Domain.pdb
+C:\Users\broly\source\repos\test-back\test-back.Infrastructure\obj\Debug\net8.0\test-back.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\broly\source\repos\test-back\test-back.Infrastructure\obj\Debug\net8.0\test-back.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\broly\source\repos\test-back\test-back.Infrastructure\obj\Debug\net8.0\test-back.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\broly\source\repos\test-back\test-back.Infrastructure\obj\Debug\net8.0\test-back.Infrastructure.AssemblyInfo.cs
+C:\Users\broly\source\repos\test-back\test-back.Infrastructure\obj\Debug\net8.0\test-back.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\broly\source\repos\test-back\test-back.Infrastructure\obj\Debug\net8.0\test-bac.0FF94133.Up2Date
+C:\Users\broly\source\repos\test-back\test-back.Infrastructure\obj\Debug\net8.0\test-back.Infrastructure.dll
+C:\Users\broly\source\repos\test-back\test-back.Infrastructure\obj\Debug\net8.0\refint\test-back.Infrastructure.dll
+C:\Users\broly\source\repos\test-back\test-back.Infrastructure\obj\Debug\net8.0\test-back.Infrastructure.pdb
+C:\Users\broly\source\repos\test-back\test-back.Infrastructure\obj\Debug\net8.0\ref\test-back.Infrastructure.dll

@@ -1,0 +1,90 @@
+form {
+    max-width: 70%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  mat-form-field {
+    width: 100%;
+    margin-bottom: 16px;
+    margin-bottom: 20px;
+  }
+ 
+  mat-error {
+    font-size: 0.875rem;
+    color: #f44336; 
+  }
+  
+  mat-label {
+    font-weight: bold;
+  }
+
+  mat-select {
+    background-color: #fff; 
+  }
+  
+  input[matInput] {
+    width: 95%;
+    padding: 10px;
+    font-size: 1rem;
+    background-color: #fff;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    margin-bottom: 2%;
+  }
+  
+  .mat-input-element, .mat-select-trigger {
+    font-size: 1rem; 
+  }
+  
+  mat-label::after {
+    content: " *";
+    color: #f44336; 
+  }
+  
+  input[matInput]:focus {
+    outline: 2px solid #3f51b5; 
+  }
+  
+  .button {
+    margin-top: 20px;
+    width: 100%;
+    background-color: #3f51b5;
+    color: white;
+    padding: 10px 15px;
+    font-size: 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:disabled {
+    background-color: #ccc; 
+  }
+  
+  button:hover:not(:disabled) {
+    background-color: #303f9f; 
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100px;
+    margin-bottom: 20px;
+  }
+  
+  
+  @media (max-width: 600px) {
+    form {
+      width: 90%;
+      padding: 10px;
+    }
+  
+    button {
+      width: 100%;
+    }
+  }
+  
